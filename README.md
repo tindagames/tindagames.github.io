@@ -42,7 +42,6 @@ This file lists all authorized ad networks and partners for our apps. Ad network
 
 - 🌐 **Website** — [tindagames.github.io](https://tindagames.github.io/)
 - 📄 **app-ads.txt** — [tindagames.github.io/app-ads.txt](https://tindagames.github.io/app-ads.txt)
-- 🐙 **GitHub** — [github.com/tindagames](https://github.com/tindagames)
 
 ---
 
