@@ -4,7 +4,7 @@
 
 ## 🎮 TINDA GAMES
 
-## Mobile Gaming Studio
+# Mobile Gaming Studio
 
 <br><br>
 
