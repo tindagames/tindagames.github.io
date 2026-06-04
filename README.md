@@ -2,6 +2,8 @@
 
 # 🎮 Tinda Games
 
+**Independent game studio — mobile & console**
+
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store)
 [![Console](https://img.shields.io/badge/Platform-Console-534AB7?style=flat-square&logo=gamepad&logoColor=white)](#)
 [![Ad Verified](https://img.shields.io/badge/Ad%20Verified-app--ads.txt-F5C400?style=flat-square)](#ad-monetization)
@@ -42,6 +44,7 @@ This file lists all authorized ad networks and partners for our apps. Ad network
 
 - 🌐 **Website** — [tindagames.github.io](https://tindagames.github.io/)
 - 📄 **app-ads.txt** — [tindagames.github.io/app-ads.txt](https://tindagames.github.io/app-ads.txt)
+- 🐙 **GitHub** — [github.com/tindagames](https://github.com/tindagames)
 
 ---
 
