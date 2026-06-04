@@ -1,0 +1,43 @@
+facebook.com, 269839343701861, DIRECT, c3e20eee3f780d68
+google.com, pub-8633631112001334, DIRECT, f08c47fec0942fa0
+unity.com, 1561274, DIRECT, 96cabb5fbdde37a7
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157384, RESELLER, 5d62403b186f2ace
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+reforge.in, 107, RESELLER
+velismedia.com, 725, RESELLER
+appnexus.com, 7353, RESELLER
+xandr.com, 7353, RESELLER
+algorix.co, 54616, RESELLER
+google.com, pub-6943486619980650, RESELLER
+google.com, pub-5795965613326602, RESELLER
+telaria.com, rwd19-1561274, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-1561274, RESELLER, 1a4e959a1b50034a
+google.com, pub-4193748908362869, DIRECT, f08c47fec0942fa0
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+google.com, pub-4555863976746588, DIRECT, f08c47fec0942fa0
+google.com, pub-3761778690705787, DIRECT, f08c47fec0942fa0
+google.com, pub-3761778690705787, DIRECT, f08c47fec0942fa0
+google.com, pub-8633631112001334, DIRECT, f08c47fec0942fa0
+google.com, pub-9715892873173971, DIRECT, f08c47fec0942fa0
+google.com, pub-8227793991302005, DIRECT, f08c47fec0942fa0
+google.com, pub-1840442271593332, DIRECT, f08c47fec0942fa0
+google.com, pub-6674233156002529, DIRECT, f08c47fec0942fa0
+google.com, pub-7255348492365213, DIRECT, f08c47fec0942fa0
+google.com, pub-7255348492365213, DIRECT, f08c47fec0942fa0
+google.com, pub-9715892873173971, DIRECT, f08c47fec0942fa0
+google.com, pub-9213305451916641, DIRECT, f08c47fec0942fa0
+google.com, pub-6662615181309483, DIRECT, f08c47fec0942fa0
+google.com, pub-1489078375783762, DIRECT, f08c47fec0942fa0
+google.com, pub-9715892873173971, DIRECT, f08c47fec0942fa0
+google.com, pub-5082511802445177, DIRECT, f08c47fec0942fa0
+google.com, pub-8099460949882601, DIRECT, f08c47fec0942fa0
